@@ -96,3 +96,11 @@ width: 600px;
 .button:hover{
    background-color:beige;
 }
+.w{
+    width: 600px;
+    height: 400px;
+    transition: transform .2s;
+}
+.w:hover{
+    transform: scale(0.9);
+}
