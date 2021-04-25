@@ -78,14 +78,10 @@ li a {
   background-color: #4CAF50;
 }
 .waveboard_1{
-width: 600px;
+width: 175px;
     text-align:center;
     border-radius: 45%;
-}
-.waveboard_2{
-width: 600px;
-    text-align:center;
-    border-radius: 45%;
+    padding: 30px;
 }
 .button{
     background-color:cyan;
