@@ -104,3 +104,24 @@ width: 600px;
 .w:hover{
     transform: scale(0.9);
 }
+.mail{
+    width: 50px;
+    height: 50px;
+}
+#contact_1{
+    background-color: firebrick;
+}
+p{
+    font-size: 20px;
+}
+#contact_1 a{
+   text-shadow: 2px 2px gainsboro !important;
+    color:black!important; 
+}
+.li:hover{
+    background-color: grey;
+    text-decoration: underline white;
+}
+.li{
+    border-right: 1px solid #bbb;
+}
